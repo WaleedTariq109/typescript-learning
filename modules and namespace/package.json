@@ -1,0 +1,17 @@
+{
+  "name": "modules-and-namespace",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript",
+    "modules-and-namespace"
+  ],
+  "author": "Waleed Tariq",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
