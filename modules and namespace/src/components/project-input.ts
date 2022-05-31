@@ -1,3 +1,5 @@
+/// <reference path="base-components.ts" />
+
 namespace App {
   // ProjectInput Class
   export class ProjectInput extends Component<HTMLDivElement, HTMLFormElement> {
