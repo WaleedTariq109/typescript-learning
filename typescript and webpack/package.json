@@ -1,0 +1,18 @@
+{
+  "name": "project-management",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript",
+    "drag-and-drop",
+    "project-management"
+  ],
+  "author": "Waleed Tariq",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
