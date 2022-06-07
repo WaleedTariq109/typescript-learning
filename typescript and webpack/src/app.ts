@@ -1,7 +1,5 @@
-// Must Add '.js' extension in imports because we don't use webpack or any other bundler
-
-import { ProjectInput } from './components/project-input.js';
-import { ProjectList } from './components/project-list.js';
+import { ProjectInput } from './components/project-input';
+import { ProjectList } from './components/project-list';
 
 new ProjectInput();
 new ProjectList('active');
