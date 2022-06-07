@@ -6,7 +6,7 @@ In this Project I used ESModule without webpack or any other bundler
 
 ## Example
 
-```
+``` javascript
 // Must Add '.js' extension in imports because we don't use webpack or any other bundler
 
 import { ProjectInput } from './components/project-input.js';
